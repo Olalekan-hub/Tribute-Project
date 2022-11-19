@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(165, 169, 204);
+}
+#myPractice{
+    background-color: white;
+    margin: 220px 400px;
+    width: 130px;
+    height: 220px;
+    border-radius: 10px;
+}
+img{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    margin: 0.5px;
+}
+h4{
+    text-align: center;
+    padding: 5px 5px;
+    font-size: 9px;
+    font-weight: 800;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+     'Open Sans', 'Helvetica Neue', sans-serif;
+}
+p{
+    font-size: 8px;
+    text-align: center;
+    color: darkgray;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
